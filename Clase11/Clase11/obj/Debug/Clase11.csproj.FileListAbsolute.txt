@@ -1,0 +1,10 @@
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\bin\Debug\Clase11.exe.config
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\bin\Debug\Clase11.exe
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\bin\Debug\Clase11.pdb
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\obj\Debug\Clase11.csproj.AssemblyReference.cache
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\obj\Debug\Clase11.Properties.Resources.resources
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\obj\Debug\Clase11.csproj.GenerateResource.cache
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\obj\Debug\Clase11.csproj.CoreCompileInputs.cache
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\obj\Debug\Clase11.exe
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\obj\Debug\Clase11.pdb
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\Clase11\Clase11\obj\Debug\Clase11.Form1.resources

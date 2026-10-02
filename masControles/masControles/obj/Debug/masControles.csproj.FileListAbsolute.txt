@@ -1,0 +1,10 @@
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\bin\Debug\masControles.exe.config
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\bin\Debug\masControles.exe
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\bin\Debug\masControles.pdb
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\obj\Debug\masControles.csproj.AssemblyReference.cache
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\obj\Debug\masControles.Form1.resources
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\obj\Debug\masControles.Properties.Resources.resources
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\obj\Debug\masControles.csproj.GenerateResource.cache
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\obj\Debug\masControles.csproj.CoreCompileInputs.cache
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\obj\Debug\masControles.exe
+C:\Users\wwwel\OneDrive\Escritorio\Base-de-datos-I-2C-2026\masControles\masControles\obj\Debug\masControles.pdb
