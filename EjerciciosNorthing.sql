@@ -1,8 +1,6 @@
 ---10 Muestra los 10 productos más caros ordenados de mayor a menor precio (usa
 ---TOP 10 y ORDER BY)
-select top 10
-	*
-from Products
+select top 10 * from Products
 order by UnitPrice desc
 go
 
