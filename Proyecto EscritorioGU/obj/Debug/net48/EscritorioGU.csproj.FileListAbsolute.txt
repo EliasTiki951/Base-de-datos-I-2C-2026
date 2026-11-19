@@ -1,0 +1,24 @@
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.csproj.AssemblyReference.cache
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.Form1.resources
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.csproj.GenerateResource.cache
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.AssemblyInfoInputs.cache
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.AssemblyInfo.cs
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.csproj.CoreCompileInputs.cache
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\bin\Debug\net48\EscritorioGU.exe.config
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\bin\Debug\net48\EscritorioGU.exe
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\bin\Debug\net48\EscritorioGU.pdb
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.exe
+C:\Users\wwwel\OneDrive\Escritorio\EscritorioGU\obj\Debug\net48\EscritorioGU.pdb
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\bin\Debug\net48\EscritorioGU.exe.config
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\bin\Debug\net48\EscritorioGU.exe
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\bin\Debug\net48\EscritorioGU.pdb
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.csproj.AssemblyReference.cache
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.Form1.resources
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.csproj.GenerateResource.cache
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.AssemblyInfoInputs.cache
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.AssemblyInfo.cs
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.csproj.CoreCompileInputs.cache
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.exe
+C:\Users\wwwel\OneDrive\Escritorio\Proyecto EscritorioGU\obj\Debug\net48\EscritorioGU.pdb
